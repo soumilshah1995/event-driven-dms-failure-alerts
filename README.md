@@ -31,3 +31,6 @@ DEV_REGION=us-east-1
 sls deploy
 ```
 
+# Read Docs
+* https://docs.aws.amazon.com/dms/latest/userguide/CHAP_EventBridge.html
+
